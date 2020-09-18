@@ -1,4 +1,4 @@
-## Node Basic CRUD App Skeleton for starter Projects
+## Node JWT Auth Token based Login Register with Email Sender.
 This project was generated with [NPM](https://www.npmjs.com/).
 
 ## Functionalities
